@@ -3,7 +3,7 @@
 
 ### What is PyWork Base?
 
-PyWork Base is a framework base that I use in many programs. It is a very easy template to build off and customize.
+PyWork Base is a commandline UI base that I use in many programs. It is a very easy template to build off and customize.
 You can see applications of it in projects such as [DarkSpiritz](https://github.com/DarkSpiritz/DarkSpiritz), [BabySploit](https://github.com/M4cs/BabySploit), and [NaviSat](https://github.com/M4cs/NaviSat).
 It offers an easy way to control configuration files, add modules, customize the UI, and add commands. 
 
