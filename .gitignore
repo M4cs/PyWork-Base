@@ -1,2 +1,5 @@
-__pycache__/
+configuration/__pycache__/
+core/displays/__pycache__/
+core/__pycache__/
+core/modules/__pycache__/
 *.pyc
